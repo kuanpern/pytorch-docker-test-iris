@@ -18,7 +18,6 @@ $ docker run --gpus all test-iris:latest
 
 Expected outcomes:
 ```
-```
 cuda is available: True
 number of epoch 0 loss tensor(1.2010)
 number of epoch 100 loss tensor(0.8279)
